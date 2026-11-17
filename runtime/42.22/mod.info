@@ -1,0 +1,13 @@
+name=[B42] Secondary Mele Attack (WIP)
+id=B42SecMeleAttack_WIP
+author=Antikristianos
+description=Direct weapon floor attack key and optional left-click floor-attack blocking. Requires ZombieBuddy.
+icon=../common/icon.png
+require=\ZombieBuddy
+javaJarFile=media/java/B42SecMeleAttack.jar
+javaPkgName=antikristianos.secmeleattack
+ZBVersionMin=2.3.2
+modversion=0.1
+versionMin=42.22.0
+category=Weapons
+incompatible=B42SecMeleAttack

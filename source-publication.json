@@ -1,0 +1,105 @@
+{
+  "SchemaVersion": 1,
+  "Project": "B42SecMeleAttack",
+  "Repository": "antikristianos/B42SecMeleAttack",
+  "Branch": "wip",
+  "Tag": "wip-1.109",
+  "ModVersion": "0.1",
+  "CollectionVersion": "1.109",
+  "WorkshopId": 3802764936,
+  "WorkshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802764936",
+  "UploadManifestSha256": "27072DC43C0CDBB3EF1CDA067A5612F3C0E4C6D0B130AF6E53998EBBEA1CBC7D",
+  "Artifact": {
+    "Path": "mods/B42SecMeleAttack_WIP/42.22/media/java/B42SecMeleAttack.jar",
+    "Size": 10447,
+    "Sha256": "60BACFC9723E90A075F6810C20B49EA1AF594B37F665E61C0E9BA8A4B74DD9A6"
+  },
+  "AdditionalArtifacts": [],
+  "Sources": [
+    {
+      "Path": ".gitignore",
+      "Size": 8,
+      "Sha256": "020C2606E8ED484089C2083E0BE438B9D0736BEE1558A6B76AF0D58BD23F69CF"
+    },
+    {
+      "Path": "MANIFEST.MF",
+      "Size": 136,
+      "Sha256": "BF1156A01D4380D5A8E30B29FA7EFEE5860D16297FD1C7EDFA5D6463063F1792"
+    },
+    {
+      "Path": "README.md",
+      "Size": 1274,
+      "Sha256": "F949D90102C38069F39A32C4AC8B651CF3EE0E7C460FCA76E984AAF13AA0A3A6"
+    },
+    {
+      "Path": "build.json",
+      "Size": 1746,
+      "Sha256": "29E0F5AF64C286CDA8E5E6742F3AD9A18EC44ACA29815A1F67D72D71376AC367"
+    },
+    {
+      "Path": "build.ps1",
+      "Size": 2600,
+      "Sha256": "8389B7B0B5515387FA5D9B3989FED7C8629DA7762817C03AD266B69DE5B2B0FD"
+    },
+    {
+      "Path": "resources/antikristianos/secmeleattack/vanilla.sha256",
+      "Size": 296,
+      "Sha256": "EA48DE8BA2F4F6FF50E9A72AB3EFBE367302822FC099F7308535A0A9E604CDFA"
+    },
+    {
+      "Path": "runtime/42.22/media/lua/client/B42SecMeleAttack/Controls.lua",
+      "Size": 9403,
+      "Sha256": "678DD2896E4B4F6D0C651660F4669DB88DFD6C554CAEA1EAC0E4F57C36592BF4"
+    },
+    {
+      "Path": "runtime/42.22/media/lua/client/B42SecMeleAttack.lua",
+      "Size": 2058,
+      "Sha256": "EB02855E3116BA755702C046187C942BBBD5AC0235CA7147CB6999B7A8AFF499"
+    },
+    {
+      "Path": "runtime/42.22/media/lua/shared/Translate/EN/IG_UI.json",
+      "Size": 662,
+      "Sha256": "7A18962BC72EDF2D2F58CAE9DFC6F5D14ECB3235FBA51CDE7E6E5AD2B798ED86"
+    },
+    {
+      "Path": "runtime/42.22/media/lua/shared/Translate/EN/UI.json",
+      "Size": 84,
+      "Sha256": "8D7D97018CB1886084A88AE8F26E54CDB78D2CA565024AFC1A3E73AB7AE42EB9"
+    },
+    {
+      "Path": "runtime/42.22/mod.info",
+      "Size": 427,
+      "Sha256": "C349723C81F2BD4F11446718B04B77FB980379FB50F9A6F2C458E418576D4BA0"
+    },
+    {
+      "Path": "src/antikristianos/secmeleattack/Main.java",
+      "Size": 10326,
+      "Sha256": "0A535E2DBA0E7C889A23DE5853CF260C20912EC6E71AAB9C507743495E5C3D04"
+    },
+    {
+      "Path": "src/antikristianos/secmeleattack/PatchAttack.java",
+      "Size": 483,
+      "Sha256": "669C425752826FC0841526530DF736141418A7E597397E9CEEA701E3ED13D0C7"
+    },
+    {
+      "Path": "src/antikristianos/secmeleattack/PatchExit.java",
+      "Size": 489,
+      "Sha256": "5F63492668B4A4BA2A35EF44EEE6A15FD76E2BDBB0214BAD9F16DD9A64B34B08"
+    },
+    {
+      "Path": "src/antikristianos/secmeleattack/PatchOutline.java",
+      "Size": 460,
+      "Sha256": "1B572C954A84D98A2FE5EFE102A3A33108890221BC53EAC17CAE6820D84C8772"
+    },
+    {
+      "Path": "src/antikristianos/secmeleattack/PatchOutlineProne.java",
+      "Size": 540,
+      "Sha256": "6ED94F3B4844DA8304CA58F60268955C0EDA7E839E1573EB91367804FD81B809"
+    },
+    {
+      "Path": "src/antikristianos/secmeleattack/PatchVars.java",
+      "Size": 488,
+      "Sha256": "387DBDFAFE027011D9CB2EC80988BAB415F4D2A01D2C3873903801A86059F4D8"
+    }
+  ]
+}

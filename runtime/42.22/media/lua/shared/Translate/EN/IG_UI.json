@@ -1,0 +1,7 @@
+{
+    "IGUI_B42SMA_Title":  "Secondary Mele Attack",
+    "IGUI_B42SMA_Key":  "Mele Weapon Floor Attack",
+    "IGUI_B42SMA_KeyTip":  "While aiming with left-click blocking enabled, press once for one weapon floor attack. Keyboard, middle mouse or buttons 4-8; left/right mouse reserved. Initially unbound.",
+    "IGUI_B42SMA_Block":  "Disable left-click weapon floor attacks",
+    "IGUI_B42SMA_BlockTip":  "Blocks automatic and manual left-click weapon floor attacks. Standing attacks and the separate shove/stomp control remain available. Assign the floor attack control first. While enabled, Vanilla\u0027s automatic target selection is on and locked."
+}
