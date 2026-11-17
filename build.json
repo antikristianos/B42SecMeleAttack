@@ -1,0 +1,54 @@
+{
+  "JavaRelease": 17,
+  "JarName": "B42SecMeleAttack.jar",
+  "AdditionalClasspath": [],
+  "Entries": [
+    {
+      "Path": "antikristianos/secmeleattack/Main.class",
+      "Size": 10907,
+      "Sha256": "9CE19E3986F0F67895A69537D771C158B8823F257F762FBB3BF8F04414203877"
+    },
+    {
+      "Path": "antikristianos/secmeleattack/PatchAttack.class",
+      "Size": 1052,
+      "Sha256": "37ABC601982E17AAD120F5BF100880937E7C1499CB2E0051BF693B7122537648"
+    },
+    {
+      "Path": "antikristianos/secmeleattack/PatchExit.class",
+      "Size": 1034,
+      "Sha256": "05C7F82BA3F2ADE5C3E59C5E03B174CAE5AB3C85EF5AA38D26858FAE881E0011"
+    },
+    {
+      "Path": "antikristianos/secmeleattack/PatchOutline.class",
+      "Size": 1043,
+      "Sha256": "4C3946F82FE9A5BDDB5A782C015F29C92D6F26C1140AFC52FFC1A622CB76A9D9"
+    },
+    {
+      "Path": "antikristianos/secmeleattack/PatchOutlineProne.class",
+      "Size": 960,
+      "Sha256": "5F3FEE25B0475C793C9F06B7162D5941B4E9A3E21B0EDAC3B0134A0FC1175FD1"
+    },
+    {
+      "Path": "antikristianos/secmeleattack/PatchVars.class",
+      "Size": 972,
+      "Sha256": "0DCCB50AD112E74035C959E35C8E21814DF80D87BCC62A62AB565A5B8E2BF17C"
+    },
+    {
+      "Path": "antikristianos/secmeleattack/vanilla.sha256",
+      "Size": 296,
+      "Sha256": "EA48DE8BA2F4F6FF50E9A72AB3EFBE367302822FC099F7308535A0A9E604CDFA"
+    }
+  ],
+  "Dependencies": [
+    {
+      "Path": "projectzomboid.jar",
+      "Size": 68815659,
+      "Sha256": "3C4A7C5F149D784758C6FB5F8FA85F3A21D572E38BC081400E89035F8120D287"
+    },
+    {
+      "Path": "ZombieBuddy.jar",
+      "Size": 12491689,
+      "Sha256": "F2490E1B72F12CFAE7EB7ADC3DCEA08F20F12AD8DDA4FB8C824631408DE3C180"
+    }
+  ]
+}
